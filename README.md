@@ -13,4 +13,4 @@ How to execute:
 Please find the Main.java file. 
 It consists for the Planet class as well as a Main class with all the fields and member functions respectively as per instructions.
 All the data for testing is defined inside the same.
-Kindly execute the Main.java file to view the results.
+Kindly execute the Main class file to view the results.
